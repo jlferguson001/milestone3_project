@@ -2,7 +2,7 @@ const products = [
     {
         '_id ': '1',
         'name': 'Biohazard Pyrex ',
-        'image': '../public/img/biohazardpyrex.png',
+        'image': '/images/biohazardpyrex.jpg',
         'description': 'etched pyrex dish 8 x 8 with lid',
         'brand': 'pyrex',
         'category': 'dinnerware', 
@@ -14,7 +14,7 @@ const products = [
     {
         '_id ': '2',
         'name': 'Biohazard Wine Glass',
-        'image': '../public/img/biohazardwine.png',
+        'image': '/images/biohazardwine.jpg',
         'description': 'etched wine glass',
         'brand': 'Libby',
         'category': 'Beverage Container', 
@@ -26,7 +26,7 @@ const products = [
     {
         '_id ': '3',
         'name': 'Fyling Under the Influence',
-        'image': '../public/img/flyingUnderInfluence.png',
+        'image': '/images/flyingUnderinfluence.jpg ',
         'description': 'etched wine glass',
         'brand': 'Libby',
         'category': 'Beverage Container', 
@@ -38,7 +38,7 @@ const products = [
     {
         '_id ': '4',
         'name': 'Hands Off',
-        'image': '../public/img/handsoff.png',
+        'image': '/images/handsoff.jpg ',
         'description': 'etched pyrex dish 9x13',
         'brand': 'pyrex',
         'category': 'dinnerware', 
@@ -50,7 +50,7 @@ const products = [
     {
         '_id ': '5',
         'name': 'Here for the Boos',
-        'image': '../public/img/hereForTheBoos.png',
+        'image': '/images/hereForTheBoos.jpg ',
         'description': 'etched wine glass',
         'brand': 'Libby',
         'category': 'Beverage Container', 
@@ -61,8 +61,8 @@ const products = [
     },
     {
         '_id ': '6',
-        'name': 'Mr & Mrs',
-        'image': '../public/img/mrandmrswine.png',
+        'name': 'Mr & Mrs wine glasses',
+        'image': '/images/mrandmrswine.jpg ',
         'description': 'etched wine glass set',
         'brand': 'Libby',
         'category': 'Beverage Container', 
@@ -74,8 +74,8 @@ const products = [
     {
         '_id ': '7',
         'name': 'Personalized Pie Pan',
-        'image': '../public/img/piepan.png',
-        'description': 'personalized etched pie pan',
+        'image': '/images/piepan.jpg ',
+        'description': ' ',
         'brand': 'pyrex',
         'category': 'dinnerware', 
         'price': 30.00,
@@ -86,7 +86,7 @@ const products = [
     {
         '_id ': '8',
         'name': 'Personalized Pub Glasses',
-        'image': '../public/img/pubglass.png',
+        'image': '/images/pubglass.jpg',
         'description': 'set of 4 personalized pub glasses',
         'brand': 'Libby',
         'category': 'Beverage Container', 
