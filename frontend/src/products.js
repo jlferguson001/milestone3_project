@@ -1,6 +1,6 @@
 const products = [
     {
-        '_id ': '1',
+        '_id': '1',
         'name': 'Biohazard Pyrex ',
         'image': '/images/biohazardpyrex.jpg',
         'description': 'etched pyrex dish 8 x 8 with lid',
@@ -12,7 +12,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '2',
+        '_id': '2',
         'name': 'Biohazard Wine Glass',
         'image': '/images/biohazardwine.jpg',
         'description': 'etched wine glass',
@@ -24,7 +24,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '3',
+        '_id': '3',
         'name': 'Fyling Under the Influence',
         'image': '/images/flyingUnderinfluence.jpg ',
         'description': 'etched wine glass',
@@ -36,7 +36,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '4',
+        '_id': '4',
         'name': 'Hands Off',
         'image': '/images/handsoff.jpg ',
         'description': 'etched pyrex dish 9x13',
@@ -48,7 +48,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '5',
+        '_id': '5',
         'name': 'Here for the Boos',
         'image': '/images/hereForTheBoos.jpg ',
         'description': 'etched wine glass',
@@ -60,7 +60,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '6',
+        '_id': '6',
         'name': 'Mr & Mrs wine glasses',
         'image': '/images/mrandmrswine.jpg ',
         'description': 'etched wine glass set',
@@ -72,7 +72,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '7',
+        '_id': '7',
         'name': 'Personalized Pie Pan',
         'image': '/images/piepan.jpg ',
         'description': ' ',
@@ -84,7 +84,7 @@ const products = [
         'numReviews': 12 
     },
     {
-        '_id ': '8',
+        '_id': '8',
         'name': 'Personalized Pub Glasses',
         'image': '/images/pubglass.jpg',
         'description': 'set of 4 personalized pub glasses',
